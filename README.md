@@ -40,7 +40,7 @@ which match with a specified CSS selector.
 заменить содержимое элемента. Например, все содержимое
 элемента body может быть удалено:
 >
-> ![]()
+> ![](./innnerHtml.png)
 >
 > The Style object represents an
 individual style statement
@@ -89,6 +89,6 @@ AppendChild() добавляет узел в конец списка дочер�
   false is passed as the second parameter, it removes the specified
   class, and if true, it adds it.
 >
-  If the second parameter is undefined or a variable with
+> If the second parameter is undefined or a variable with
   typeof == 'undefined', the behavior is the same as passing only the
   first parameter when calling
